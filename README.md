@@ -6,10 +6,10 @@ can help you identify waste patterns, pinpoint areas for improvement, and
 make informed decisions to reduce your food waste footprint.
 
 1. Analyze Wasted Quantity by Food Item
-•	Objective: Identify food items with the highest waste.
+	Objective: Identify food items with the highest waste.
 •	Steps:
-1.	Sort the dataset by the "Wasted Quantity (kg)" column in descending order.
-2.	Use a pivot table:
+   Sort the dataset by the "Wasted Quantity (kg)" column in descending order.
+	Use a pivot table:
 	Rows: Food Item
 	Values: Sum of Wasted Quantity (kg)
 3.	Identify the top items contributing to waste.
