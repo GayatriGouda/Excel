@@ -60,8 +60,8 @@ o	Create charts:
 2.	Pie Chart: Contribution of each category to total waste.
 ______________
 7. Statistical analysis
-Calculate new purchase quantity for the purchase quantity
-Using regression analysis we test weather new purchase quantity is best fit or not
+Calculate new purchase quantity for the purchase quantity.
+Using regression analysis we test weather new purchase quantity is best fit or not.
 ______________
 8. Implement recommendations
 Reduce purchase quantities for high-waste items, adjust purchase frequency,
