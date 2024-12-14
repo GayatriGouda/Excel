@@ -58,3 +58,17 @@ ______________
 o	Create charts:
 1.	Bar Chart: Top 5 wasted food items.
 2.	Pie Chart: Contribution of each category to total waste.
+______________
+7. Statistical analysis
+Calculate new purchase quantity for the purchase quantity
+Using regression analysis we test weather new purchase quantity is best fit or not
+______________
+8. Implement recommendations
+Reduce purchase quantities for high-waste items, adjust purchase frequency,
+and prioritize consuming perishable items sooner .
+Trend analysis suggests reducing the purchase of vegetables (a high-waste
+food category) and other major food items with significant waste .
+Using statistical analysis, we can conclude that following the new calculated
+purchase quantities will lead to a reduction in food wastage in the coming
+days.
+   
